@@ -1,7 +1,7 @@
 // sessionStorage.getItem("name")
 // sessionStorage.clear()
 // sessionStorage.removeItem("name")
-// sessionStorage.setItem("name", "harry")
+// sessionStorage.setItem("name", "Biswa")
 // sessionStorage.removeItem("name")
 
 

@@ -20,8 +20,8 @@ class RailwayForm {
   }
 }
 
-let harryForm = new RailwayForm("Harry", 13488, "420, Pacific Ocean, Ocean, Bihar - 0000555")
-harryForm.preview()
-harryForm.submit()
-harryForm.cancel()
-harryForm.preview()
+let BiswaForm = new RailwayForm("Biswa", 13488, "420, Pacific Ocean, Ocean, Bihar - 0000555")
+BiswaForm.preview()
+BiswaForm.submit()
+BiswaForm.cancel()
+BiswaForm.preview()

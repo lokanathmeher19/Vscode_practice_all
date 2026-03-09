@@ -1,4 +1,4 @@
-async function harry() {
+async function Biswa() {
         let delhiWeather = new Promise((resolve, reject) => {
                 setTimeout(() => {
                         resolve("27 Deg")
@@ -28,7 +28,7 @@ const cherry = async () => {
 
 const main1 = async () => {
         console.log("Welcome to weather control room")
-        let a = await harry()
+        let a = await Biswa()
         let b = await cherry()
 
 }

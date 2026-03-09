@@ -35,6 +35,6 @@ class Programmer extends Employee {
   }
 }
 
-let e = new Programmer("Harry")
+let e = new Programmer("Biswa")
 e.login()
 e.requestLeaves(3)

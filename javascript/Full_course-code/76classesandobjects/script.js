@@ -11,10 +11,10 @@ class RailwayForm {
   }
 }
 
-// Create a form for Harry
-let harryForm = new RailwayForm()
-// Fill the form with Harry's details
-harryForm.fill("Harry", 145316)
+// Create a form for Biswa
+let BiswaForm = new RailwayForm()
+// Fill the form with Biswa's details
+BiswaForm.fill("Biswa", 145316)
 
 // Create a forms for Rohan
 let rohanForm1 = new RailwayForm()
@@ -23,7 +23,7 @@ let rohanForm2 = new RailwayForm()
 rohanForm1.fill("Rohan", 222420)
 rohanForm2.fill("Rohan", 2229211)
 
-harryForm.submit()
+BiswaForm.submit()
 rohanForm1.submit()
 rohanForm2.submit()
 rohanForm1.cancel()

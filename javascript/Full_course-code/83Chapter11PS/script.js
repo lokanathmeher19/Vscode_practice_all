@@ -50,7 +50,7 @@ console.log(`${a.real}+${a.imaginary}i`)
 //   }
 // }
 
-// let o = new Student("Harry", "Bhindi")
+// let o = new Student("Biswa", "Bhindi")
 // o.walk()
 
 // console.log(o instanceof Human)
