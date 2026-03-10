@@ -1,11 +1,6 @@
 //arrow functions
 
 //1.syntax
-const sayhello=()=>{
-    //arrow functions
-    console.log("Hello, World!");
-};
-
 const add=(a,b)=>a+b;
 console.log(add(2,3))
 

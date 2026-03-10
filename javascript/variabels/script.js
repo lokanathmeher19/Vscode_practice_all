@@ -6,15 +6,15 @@ console.log("Hello World");
 //datatyeps varname == value; strongly typed language.
 //js---->dynamic typed language.
 
-var age = 25;
+var ageVar = 25;
 var name = "Biswajit";
 var num1 = 10;
 var num2 = 20;
-console.log(age);
+console.log(ageVar);
 console.log(num1 + num2);
 
-age = "biswajit";
-console.log(age);
+ageVar = "biswajit";
+console.log(ageVar);
 
 
 
@@ -29,9 +29,9 @@ console.log(firstName);
 
 
 if(true){
-    var age = 30;
+    var ageVar = 30;
 }
-console.log(age); //30
+console.log(ageVar); //30
 
 //let and const
 //block scope
@@ -45,14 +45,14 @@ console.log(age); //30
 // console.log(a);  
 
 
-let age = 25;
+let ageLet = 25;
 
-console.log(age); //biswajit   
+console.log(ageLet); //25   
 
 if(true){
     let a=20;
+    console.log(a);
 }
-console.log(a);  
 
 //const is used to declare a constant variable. A constant variable cannot be reassigned a new value. It must be initialized at the time of declaration.
 
@@ -60,7 +60,7 @@ console.log(a);
 //const 
 //scope->Local and global scope
 
-const age = 25;
+const ageConst = 25;
 
 
-console.log(age); //TypeError: Assignment to constant variable.
+console.log(ageConst);

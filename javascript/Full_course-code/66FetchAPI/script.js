@@ -9,8 +9,8 @@ p.then((response) => {
 })
 
 
-let p = fetch("https://goweather.herokuapp.com/weather/Ny")
-p.then((response) => { 
+let p2 = fetch("https://goweather.herokuapp.com/weather/Ny")
+p2.then((response) => { 
         return response.json()
 }).then((response) => {
         console.log(response)
