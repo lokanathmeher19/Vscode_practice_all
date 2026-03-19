@@ -1,5 +1,5 @@
-a1=input()
-a2=input()
+a1=input("  ")
+a2=input("  ")
 print(a2)
 print("###")
 print(a1)
