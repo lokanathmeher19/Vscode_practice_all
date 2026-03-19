@@ -1,4 +1,4 @@
-word = input()
-int = input()
+word = input("")
+int = input("")
 
 print(word,"is",int,"years old")
