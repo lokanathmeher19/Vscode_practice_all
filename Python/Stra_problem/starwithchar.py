@@ -1,3 +1,3 @@
-word=input()
+word=input("Enter")
 
 print("* * *",word,"* * *")
