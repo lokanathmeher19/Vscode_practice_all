@@ -1,4 +1,4 @@
-km=float(input())
+km=float(input("Enter Number"))
 
 meters= int(km * 1000)
 

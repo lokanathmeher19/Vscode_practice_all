@@ -1,3 +1,3 @@
-word=input()
+word=input("Enter number")
 
 print(len(word)-1)
