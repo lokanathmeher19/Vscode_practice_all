@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("enter number"))
 
 if n%6==0:
     print("Number is divisible by 6")
