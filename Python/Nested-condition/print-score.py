@@ -1,4 +1,4 @@
-d=int(input())
+d=int(input("Enter number"))
 
 score=0
 if d>50:
