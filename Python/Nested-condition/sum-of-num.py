@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=int(input("enter"))
+b=int(input("Enter"))
 
 
 result=a**2+b**2>=60
