@@ -1,4 +1,4 @@
-a=int(input())
+a=int(input("enter the number"))
 
 n100=a//100 
 a=a%100 
