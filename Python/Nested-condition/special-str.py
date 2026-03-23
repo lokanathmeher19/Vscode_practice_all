@@ -1,4 +1,4 @@
-s=input()
+s=input("enter number")
 
 if s[:3]=="NXT":
     num=int(s[3:])
