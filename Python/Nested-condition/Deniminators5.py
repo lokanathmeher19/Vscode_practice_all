@@ -1,4 +1,4 @@
-a=int(input())
+a=int(input("Enter number"))
 
 n2000=a//2000 
 a=a%2000 
