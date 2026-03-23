@@ -1,5 +1,5 @@
-n=int(input())
-m=int(input())
+n=int(input("Enter"))
+m=int(input("Enter"))
 count=0
 while count<n:
     print("* "*m)
