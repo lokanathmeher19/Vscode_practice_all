@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("enter the number"))
 s=n**2
 
 n=str(n)
