@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+
+
     int num, square;
 
     printf("Enter a number: ");
@@ -11,4 +13,6 @@ int main() {
     printf("Square = %d\n", square);
 
     return 0;
+
+    
 }
