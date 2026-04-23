@@ -1,27 +1,27 @@
-#include <bits/stdc++.h>   // Includes all standard C++ libraries
-using namespace std;       // Allows use of cin, cout without std::
+#include <bits/stdc++.h>   // Includes all standard C++ libraries 
+using namespace std;       // Allows use of cin, cout without std:: prefix
 
 class solution {           // Define a class named solution
 public:                    // Public access specifier (functions accessible outside class)
 
-    // Function to add two numbers
+    // Function to add two numbers which to have to add .
     int add(int a, int b) {
-        return a + b;      // Return sum of a and b
+        return a + b;      // Return sum of a and b  both number.
     }
     
-    // Function to subtract two numbers
+    // Function to subtract two numbers which to have to subtract .
     int subtract(int a, int b) {
-        return a - b;      // Return difference of a and b
+        return a - b;      // Return difference of a and b both number.
     }
     
     // Function to multiply two numbers
     int multiply(int a, int b) {
-        return a * b;      // Return product of a and b
+        return a * b;      // Return product of a and b both number.
     }
     
-    // Function to divide two numbers
+    // Function to divide two numbers in their sequential number.
     int divide(int a, int b) {
-        return a / b;      // Return division result
+        return a / b;      // Return division result 
     }
 };
 
@@ -43,5 +43,5 @@ int main() {               // Program execution starts from here
         cout << obj.divide(a,b) << endl;  // Print division result
     }
 
-    return 0;              // End program successfully
+    return 0;              // End program successfully this program.
 }
