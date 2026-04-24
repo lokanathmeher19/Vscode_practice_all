@@ -16,3 +16,6 @@ public class Factorial {
         sc.close();
     }
 }
+
+
+// #facorial is a number of science
