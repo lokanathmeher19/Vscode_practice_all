@@ -16,3 +16,5 @@ public class SumN {
         sc.close();
     }
 }
+
+// sum of numbers from 1 to n
