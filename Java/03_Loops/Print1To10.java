@@ -6,3 +6,7 @@ public class Print1To10 {
         }
     }
 }
+
+
+
+// #print 1 to 10 using for loop
